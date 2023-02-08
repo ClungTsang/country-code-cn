@@ -9,8 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git@github.com:ClungTsang/country-code-cn.git"
+  },
+  "dependencies": {
+    "country-data": "^0.0.31"
   }
 }
