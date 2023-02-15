@@ -1,6 +1,6 @@
 {
-  "name": "corunty-code-cn",
-  "version": "1.0.3",
+  "name": "country-code-cn",
+  "version": "1.0.8",
   "description": "用于查询全球所有国家或者地区中文名名称以及地区区号",
   "main": "/src/index.js",
   "scripts": {
